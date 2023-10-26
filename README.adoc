@@ -1,5 +1,5 @@
 
-= Clojure Template Project
+= Clojure Demo Project
 
 Clojure demo project
 
